@@ -1,0 +1,25 @@
+{
+  "name": "f1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrimePotato/GraphicPrix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrimePotato/GraphicPrix/issues"
+  },
+  "homepage": "https://github.com/PrimePotato/GraphicPrix#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "d3": "^5.5.0",
+    "jquery": "^3.3.1",
+    "popper": "^1.0.1"
+  }
+}
